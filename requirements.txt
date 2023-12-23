@@ -1,4 +1,4 @@
 fastapi
 typing
 pydantic
-"uvicorn[standard]"
+uvicorn[standard]
